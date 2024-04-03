@@ -1,6 +1,6 @@
 # Sobre
 
-web app Construido no stage 6 do explorer da [Rocketseat](https://www.rocketseat.com.br/explorer), nesse módulo construi essa aplicação para aprender sobre:
+Durante a etapa 6 do programa Explorer da [Rocketseat](https://www.rocketseat.com.br/explorer), desenvolvi um aplicativo web com o intuito de aprimorar habilidades fundamentais, tais como:
 
 - Classes construtoras
 - Higher-Order functions
@@ -11,6 +11,6 @@ web app Construido no stage 6 do explorer da [Rocketseat](https://www.rocketseat
 
 ### Deploy
 
-[Acesse aqui](https://henriquecardosoo.github.io/github-favorites.github.io/)
+[Acesse aqui](https://henriquecardosoo.github.io/github-favorites/)
 
-## Preview
+<!-- ## Preview -->
